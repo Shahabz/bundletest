@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 717180159
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: body_common_texture
+      Dependencies: {}
+    Info_1:
+      Name: maps/variants/variantscene
+      Dependencies:
+        Dependency_0: maps/variants/assets.hd
+    Info_2:
+      Name: model
+      Dependencies:
+        Dependency_0: another_file
+    Info_3:
+      Name: models/red
+      Dependencies: {}
+    Info_4:
+      Name: encrypted/tanks/models
+      Dependencies: {}
+    Info_5:
+      Name: body_common_material
+      Dependencies:
+        Dependency_0: body_common_texture
+    Info_6:
+      Name: maps/variants/assets.hd
+      Dependencies: {}
+    Info_7:
+      Name: testpic
+      Dependencies: {}
+    Info_8:
+      Name: encrypted/tanks/prefabs
+      Dependencies:
+        Dependency_0: encrypted/tanks/models
+        Dependency_1: james
+    Info_9:
+      Name: models/plane
+      Dependencies: {}
+    Info_10:
+      Name: maps/sample/samplescene
+      Dependencies: {}
+    Info_11:
+      Name: blazer_sport1
+      Dependencies:
+        Dependency_0: body_common_material
+    Info_12:
+      Name: models/green
+      Dependencies: {}
+    Info_13:
+      Name: another_file
+      Dependencies: {}
+    Info_14:
+      Name: maps/variants/assets.sd
+      Dependencies: {}
+    Info_15:
+      Name: james
+      Dependencies:
+        Dependency_0: encrypted/tanks/models

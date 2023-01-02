@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1126545234
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 80809ed23ba102a960c1db38600876f7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Sprites/Mat/another_pic.jpg
+- Assets/Res/Sprites/Mat/haha.mat
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3888364701
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7223bf4c7369403c2cce57110775c6d6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Clothes/Body/Common/Material/NailMT1.mat
+- Assets/Res/Clothes/Body/Common/Material/Body1.mat
+- Assets/Res/Clothes/Body/Common/Material/Arm1.mat
+Dependencies:
+- C:/Users/shahbaz.ali/Desktop/AssetBundleDownloadModel/Unity_Test_AssetBundle-master/AssetBundles/Android/gen/body_common_texture

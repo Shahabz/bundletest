@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 4246490817
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 708ec455f75cde5bb8fd46f5867d7e02
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1eff53d114720a95b67621a8bf3d0e92
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Sprites/Model/Sphere.prefab
+- Assets/Res/Sprites/Model/heheCube.prefab
+Dependencies:
+- C:/Users/shahbaz.ali/Desktop/AssetBundleDownloadModel/Unity_Test_AssetBundle-master/AssetBundles/Android/gen/another_file

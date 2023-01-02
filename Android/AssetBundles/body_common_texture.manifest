@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 147723554
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 975181f33ae64d2a9e93ff0714a19883
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Arm__Normal.jpg
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Arm__Roughness.jpg
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Arm__AO.jpg
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Body__AO.jpg
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Head__AO.jpg
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Body__Normal.jpg
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Body__Roughness.jpg
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Arm__Diffuse.png
+- Assets/Res/Clothes/Body/Common/Texture/Std_Skin_Body__Diffuse.png
+Dependencies: []
